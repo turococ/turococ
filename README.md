@@ -29,7 +29,7 @@
 <h3 data-importer="text" align="left">Currently learning:
   <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="23"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="23" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" height="23" alt="unrealengine logo"  />
 </h3>
 
 ###
