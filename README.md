@@ -20,11 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">Instruments:</p>
-
-###
-
-<div data-importer="techs" align="left">
+<p data-importer="text" align="left">Instruments: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
@@ -34,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-</div>
-
-###
+</p>
 
 <p data-importer="text" align="left">OS:</p>
 
