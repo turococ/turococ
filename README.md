@@ -61,12 +61,12 @@
 
 ###
 
-<p data-importer="text" align="left">actively learning:</p>
+<p data-importer="text" align="left">Currently learning:</p>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
 ###
