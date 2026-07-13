@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://tenor.com/ru/view/spongebob-spongebob-meme-spongebob-mocking-mocking-looking-gif-6790218912628302760"  />
+<img data-importer="image" align="right" height="200" src=".github/images/low-cortisol.gif"  />
 
 ###
 
