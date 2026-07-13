@@ -71,7 +71,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="200" src=".github/images/spongebob-spongebob-meme.gif"  />
 
 ###
 
