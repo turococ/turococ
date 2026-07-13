@@ -9,8 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="23" alt="csharp logo"  />
 </h3>
 
-###
-
 <h3 data-importer="text" align="left">Instruments: 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="23" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="23" alt="blender logo"  />
@@ -24,12 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="23" alt="linux logo"  />
 </h3>
 
-###
-
 <h3 data-importer="text" align="left">Currently learning:
   <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="23"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="23" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=unreal" height="28" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" height="23" alt="unrealengine logo"  />
 </h3>
 
 ###
