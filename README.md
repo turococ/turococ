@@ -1,7 +1,3 @@
-<h2 data-importer="text" align="left">Sup ✌️! My name is Egor and I'm a developer from Russia</h2>
-
-###
-
 <h3 data-importer="text" align="left">Languages I use:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="23" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="23" alt="css3 logo"  />
