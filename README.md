@@ -26,10 +26,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src=".github/images/spongebob-spongebob-meme.gif"  />
-
-###
-
 <h3 data-importer="text" align="left">My social media:</h3>
 
 ###
